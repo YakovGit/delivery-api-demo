@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "startDate": "2021-02-26",
+    "endDate": "2021-02-28",
+    "supportedAddresses": [
+      "De Flammert 1214",
+      "De Flammert 1215"
+    ]
+  },
+  {
+    "id": "2",
+    "startDate": "2021-03-26",
+    "endDate": "2021-03-28",
+    "supportedAddresses": [
+      "De Flammert 1214"
+    ]
+  }
+]
